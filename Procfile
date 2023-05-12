@@ -1,0 +1,1 @@
+web: gunicorn Tradis.wsgi:application --log-file -
